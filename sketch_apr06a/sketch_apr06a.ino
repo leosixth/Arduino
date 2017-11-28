@@ -37,9 +37,6 @@ void loop() {
   blink(2);
   blink(4);
   blink(5);
-  blink(12);
-  blink(13);
-  blink(14);
-  blink(15);
-  blink(16);
+  
+  
 }
